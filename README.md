@@ -20,11 +20,7 @@ Everything you need to know about interviews
 
 
 ### 开源
-* [Dockerpool](http://dockerpool.com/) 
-* [Docker中文](http://www.docker.org.cn/) 
-* [Dockerone](http://dockerone.com/)
-* [infoq Docker专栏](http://www.infoq.com/cn/dockers/)
-* [CSDN Docker 社区](http://docker.csdn.net/)
+
 - [awesome-docker英文版](https://github.com/veggiemonk/awesome-docker) 
 - [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 
 - [github-Docker中文指南](https://github.com/widuu/chinese_docker)  
