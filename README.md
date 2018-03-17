@@ -1,6 +1,6 @@
 ## Awesome  Docker
 
-Everything you need to know about interviews
+Everything you need to know about docker
 
 [参与贡献](https://github.com/ityouknow/awesome-docker/issues/new)
 
@@ -25,6 +25,7 @@ Everything you need to know about interviews
 - [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 
 - [github-Docker中文指南](https://github.com/widuu/chinese_docker)  
 - [kancloud-Docker中文指南](https://www.kancloud.cn/thinkphp/docker-guide/39707) 
+- [一译-Docker中文文档](http://python.usyiyi.cn/translate/docker/index.html) 
 
 ## 其它
 
