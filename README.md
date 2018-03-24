@@ -9,6 +9,7 @@ Everything you need to know about docker
 
 - [网站](#网站)
 - [开源](#开源)
+- [书籍](#书籍)
 - [其它](#其它)
 
 
@@ -19,7 +20,11 @@ Everything you need to know about docker
 - [dockone社区](http://dockone.io/) 
 
 
-### 开源
+## 开源
+
+- [A web UI for Docker, focused on swarm cluster.](https://github.com/cuigh/swirl)
+
+## 书籍
 
 - [awesome-docker英文版](https://github.com/veggiemonk/awesome-docker) 
 - [Docker —— 从入门到实践](http://yeasy.gitbooks.io/docker_practice/content/) 
